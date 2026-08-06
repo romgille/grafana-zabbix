@@ -89,7 +89,7 @@
     "mini-css-extract-plugin": "2.6.1",
     "moment": "2.24.0",
     "node-sass": "^7.0.1",
-    "postcss": "8.4.14",
+    "postcss": "8.5.23",
     "postcss-loader": "7.0.1",
     "postcss-reporter": "7.0.5",
     "postcss-scss": "4.0.4",
